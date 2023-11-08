@@ -10,4 +10,4 @@ I'm an aspiring backend software engineer and currently a student at the Univers
 
 *   🌍  I'm based in stl
 *   ✉️  You can contact me at [sgsqb4@mail.missouri.edu](mailto:sgsqb4@mail.missouri.edu)
-*   🧠  I'm learning the Django framework for python
+  
